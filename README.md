@@ -2,8 +2,13 @@
 
 ## steps to get all dumps
 
-* install pyang
+* clone openconfig repo and go to 
 
+`git clone https://github.com/openconfig/public` 
+
+`cd cd public/release/models`
+
+* install pyang
 
 `pip3 install pyang`
 
