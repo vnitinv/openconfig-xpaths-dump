@@ -6,7 +6,7 @@
 
 `git clone https://github.com/openconfig/public` 
 
-`cd cd public/release/models`
+`cd public/release/models`
 
 * install pyang
 
